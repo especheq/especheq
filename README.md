@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+1. Ingeniero en Sistemas de Informacion
+2. Analista Universitario de Sistemas
 <!--
 **especheq/especheq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
